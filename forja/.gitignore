@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.zip
+# Nunca versionar segredos:
+.env
+*service_role*
